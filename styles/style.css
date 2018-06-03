@@ -1,3 +1,142 @@
 h1{
 	color: blue;
 }
+
+.image{
+}
+.center{
+	display: block;
+	text-align: center;
+}
+#box{
+	margin-top: 75px;
+	padding: 50px;
+}
+
+input{
+	width: 472px;
+	height: 30px;
+	box-shadow: 3px 3px 3px grey;
+}
+
+.lbutton{
+	margin-top: 25px;
+	margin-right: 3px;
+	padding: 8px;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-weight: bold;
+	color: #757575;;
+}
+
+.rbutton{
+	margin-top: 25px;
+	margin-left: 3px;
+	background-color: #f2f2f2;
+	font-family: arial;
+	font-weight: bold;
+	color: #757575;;
+
+	padding: 8px;
+}
+
+.about{
+	margin-left: 20px;
+	margin-right: 10px;
+	text-decoration: none;
+	color: #757575;
+}
+
+.store{
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	color: #757575;
+}
+
+.gmail{
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	color: #757575;
+}
+
+.images{
+	position: absolute;
+	right: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	color: #757575;
+
+}
+
+.sign-in{
+	position: absolute;
+	right: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 5px;
+	text-decoration: none;
+	color: white;
+	background-color: #4285f4;
+}
+
+.font{
+	font-family: arial;
+	color: #757575;
+}
+
+.div-margin{
+	margin-top: 20px;
+}
+
+#footer{
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	padding-bottom: 13px;
+	padding-top: 13px;
+	background-color: #f2f2f2;
+}
+
+.advertising{
+	text-decoration: none;
+	color: #757575;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+
+.business{
+	text-decoration: none;
+	color: #757575;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.privacy{
+	position: absolute;
+	right: 170px;
+	text-decoration: none;
+	color: #757575;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.terms{
+	position: absolute;
+	right: 100px;
+	text-decoration: none;
+	color: #757575;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.settings{
+	position: absolute;
+	right: 20px;
+	text-decoration: none;
+	color: #757575;
+	margin-left: 10px;
+	margin-right: 10px;
+}
